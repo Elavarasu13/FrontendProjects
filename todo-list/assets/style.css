@@ -1,0 +1,42 @@
+.container
+{
+    border:1px solid;
+    width:400px;
+    margin:auto;
+    margin-top:20vh;
+    padding:30px;
+    background-color: #414141;
+    height:500px
+}
+
+.container h1{
+    color: #828285;
+    display:flex;
+    justify-content: center;
+
+}
+
+.container input
+{
+    padding:10px;
+    width:300px;
+    border-radius: 5px;
+}
+.container button{
+    padding:10px;
+    width:70px;
+    font-weight: 500;
+    background-color: grey;
+}
+button:hover
+{
+    background-color: #414141;
+    color:aliceblue;
+}
+.result
+{
+    color:azure;
+    font-weight: 1000;
+
+}
+
